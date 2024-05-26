@@ -2,9 +2,9 @@
 
 ## App Interface
 
-![img 1](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/img_1.png)
+![img 1](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/img_1.png)
 
-![img_2](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/img_2.png)
+![img_2](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/img_2.png)
 
 ## To create Python env
 ```bash
@@ -41,7 +41,7 @@ git config --global user.email "mohammadwasiqturk@gmail.com"
 ```
 
 ```bash
-git config --global user.email "mohammadwasiq0"
+git config --global user.email "MohammadWasiq0786"
 ```
 
 
@@ -74,25 +74,25 @@ pip freeze > requirements.txt
 ## Project Structure
 
 ### Folder Structure
-![folder_Structure](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/1_Folder%20Structure.png)
+![folder_Structure](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/1_Folder%20Structure.png)
 
 ### Data Ingestion
-![Data_Ingestion](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Ingestion.png)
+![Data_Ingestion](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Ingestion.png)
 
 ### Data Transformation
-![Data_Transformation](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Transformation.png)
+![Data_Transformation](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Transformation.png)
 
 ### Data Validation
-![Data_Validation](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Validation.png)
+![Data_Validation](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/Data%20Validation.png)
 
 ### Model Trainer
-![Model_Trainer](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Trainer.png)
+![Model_Trainer](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Trainer.png)
 
 ### Model Evaluation
-![Model_Evaluation](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Evaluation.png)
+![Model_Evaluation](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Evaluation.png)
 
 ### Model Pusher
-![Model_Pusher](https://github.com/mohammadwasiq0/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Pusher.png)
+![Model_Pusher](https://github.com/MohammadWasiq0786/US-VISA-Approval-Prediction/blob/main/flowcharts/Model%20Pusher.png)
 
 ### Export the  environment variable
 ```bash
