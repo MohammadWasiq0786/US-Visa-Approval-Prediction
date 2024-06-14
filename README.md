@@ -32,16 +32,21 @@ python app.py
 ```
 
 ## Git Commands
+
+```bash
+git init
+```
+
 ```bash
 git add .
 ```
 
 ```bash
-git config --global user.email "mohammadwasiqturk@gmail.com"
+git config --global user.email "<EMAIL>"
 ```
 
 ```bash
-git config --global user.email "MohammadWasiq0786"
+git config --global user.email "<USER_NAME>"
 ```
 
 
